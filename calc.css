@@ -1,0 +1,48 @@
+#super{
+    border: solid gray;
+    font-size:50px;
+    width: 285px;
+    background-color: antiquewhite;
+    position: relative;
+    border-radius: 10px;
+    left: 616px;
+    height: 360px;
+    box-shadow: 9px 9px 9px 9px gray;
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: thistle;
+}
+button{
+    font-size:22px;
+    background-color: aquamarine;
+    position: relative;
+    right: 5px;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 0 9px darkgray;
+
+}
+button:hover {
+    background-color:red;
+    cursor: pointer;
+}
+button:active {
+    background-color:green ;
+}
+#screen{
+    font-size:20px;
+    position: relative;
+    left: 2px;
+    margin: auto;
+    height:40px;
+    width: 273px;
+    border-radius: 10px;
+}
+#n2{
+    margin: auto;
+}
+/* blah */
